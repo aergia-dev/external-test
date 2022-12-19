@@ -1,0 +1,16 @@
+
+node_modules/
+.shadow-cljs
+/dist/js/
+/dist/css/main.css
+*.*~
+yarn.lock
+src-tauri/target
+
+.#.gitignore
+.#*.*
+
+.clj-kondo/
+yarn-error.log
+.lsp/
+Cargo.lock
